@@ -1,0 +1,4 @@
+﻿F:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Elevator.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+E:\_Instances\Elevator\main.c(19,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+  Elevator.vcxproj -> E:\_Instances\Elevator\x64\Debug\Elevator_Schedule.exe
