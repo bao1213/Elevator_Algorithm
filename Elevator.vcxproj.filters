@@ -24,6 +24,9 @@
     <ClInclude Include="Elevator.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ChangeSignal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Building.c">

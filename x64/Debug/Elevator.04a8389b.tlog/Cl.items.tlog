@@ -1,4 +1,4 @@
-E:\_Instances\Elevator\Building.c;E:\_Instances\Elevator\x64\Debug\Building.obj
-E:\_Instances\Elevator\Elevator.c;E:\_Instances\Elevator\x64\Debug\Elevator.obj
-E:\_Instances\Elevator\main.c;E:\_Instances\Elevator\x64\Debug\main.obj
-E:\_Instances\Elevator\Passenger.c;E:\_Instances\Elevator\x64\Debug\Passenger.obj
+E:\_Instances\Elevator_Algorithm\Building.c;E:\_Instances\Elevator_Algorithm\x64\Debug\Building.obj
+E:\_Instances\Elevator_Algorithm\Elevator.c;E:\_Instances\Elevator_Algorithm\x64\Debug\Elevator.obj
+E:\_Instances\Elevator_Algorithm\main.c;E:\_Instances\Elevator_Algorithm\x64\Debug\main.obj
+E:\_Instances\Elevator_Algorithm\Passenger.c;E:\_Instances\Elevator_Algorithm\x64\Debug\Passenger.obj

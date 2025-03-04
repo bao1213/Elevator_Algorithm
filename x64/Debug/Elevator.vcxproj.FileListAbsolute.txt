@@ -1,1 +1,2 @@
 E:\_Instances\Elevator\x64\Debug\Elevator_Schedule.exe
+E:\_Instances\Elevator_Algorithm\x64\Debug\Elevator_Schedule.exe

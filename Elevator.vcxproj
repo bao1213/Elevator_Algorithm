@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Building.h" />
+    <ClInclude Include="ChangeSignal.h" />
     <ClInclude Include="Elevator.h" />
     <ClInclude Include="Passenger.h" />
   </ItemGroup>
